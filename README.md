@@ -1,8 +1,5 @@
-# React + Vite
+# Crear - Listar y Eliminar Tareas con ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### Crear una aplicación de gestión de tareas con ReactJS que permita a los usuarios agregar nuevas tareas, listar las tareas y poder eliminar cualquier tarea.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/add-list-delete-tareas-con-react.png)
